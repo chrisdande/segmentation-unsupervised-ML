@@ -3,16 +3,15 @@ I performed an Unsupervised Machine Learning Model (K Means) and Generate Insigh
 ## Stage for this project
 
 1. Problem formulation - What are we trying to solve?
-2. Explaining how the whole automated process will work (Excel - CSV - Python - CSV - Power BI)
+2. How the whole automated process will work (Excel - CSV - Python - CSV - Power BI)
 3. Loading the Raw Data into Python
 4. Cleaning the Raw Data
 5. Performed Kmeans clustering using SKLean
-6. How to run Kmeans clustering using SKLean
-7. Ran Kmeans and  Principal Component Analysis (PCA) together in Python to improve result.
-8. Ran Kmeans with optimal parameters
-9. Save and deployed my output to Power BI
-10. Created the front end PowerBI Dashboard (2nd file -Power BI reporting)
-11. Created Insights from Clusters (2nd file -Power BI reporting)
+6. Ran Kmeans and  Principal Component Analysis (PCA) together in Python to improve result.
+7. Ran Kmeans with optimal parameters
+8. Save and deployed my output to Power BI
+9. Created the front end PowerBI Dashboard (2nd file -Power BI reporting)
+10. Created Insights from Clusters (2nd file -Power BI reporting)
 ### Table of content(Code)
 - 1  Project Problem formulation
 - 2  Import the packages and libraries to be used
